@@ -1,5 +1,2 @@
 # when.lol
-stupid meme because i waste time
-pog
-lmao hahah xd
-d
+self explanatory. fork & star for the memes
