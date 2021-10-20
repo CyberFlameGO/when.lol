@@ -1,3 +1,3 @@
 # when.lol
-self explanatory. fork & star for the memes hehehe
-owo
+Self explanatory. Fork & star for the memes hehehe.
+OwO
