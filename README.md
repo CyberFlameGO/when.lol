@@ -1,3 +1,5 @@
 # when.lol
-Self explanatory. Fork & star for the memes hehehe.
-OwO
+Self explanatory. Fork & star pls
+
+>>> To-do:
+Clean up repo and refactor stuff
